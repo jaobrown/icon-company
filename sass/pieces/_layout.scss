@@ -3,6 +3,8 @@
   margin: 8rem auto;
   background-color: $color-grey-light-2;
   box-shadow: $shadow-dark;
+  animation: move 2s ease;
+  animation-fill-mode: backwards;
 
   min-height: 50rem;
 
