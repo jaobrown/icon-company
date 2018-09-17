@@ -1,0 +1,21 @@
+{
+  "products":
+  [
+    {
+      "id": 0,
+      "title": "envelope",
+      "image": "img here",
+      "price": "0.99",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut deserunt earum iste molestias nam odit pariatur possimus reprehenderit suscipit veniam?",
+      "stars": 3
+    },
+    {
+      "id": 1,
+      "title": "anchor",
+      "image": "img here",
+      "price": "0.50",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut deserunt earum iste molestias nam odit pariatur possimus reprehenderit suscipit veniam?",
+      "stars": 5
+    }
+  ]
+}
